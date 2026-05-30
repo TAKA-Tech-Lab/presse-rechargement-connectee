@@ -29,7 +29,7 @@ Pour tracer vos courbes en temps réel sur un tableur (Microsoft Excel, LibreOff
 1. Utilisez un utilitaire d'acquisition de données série comme **PLX-DAQ** ou le **Data Streamer** intégré d'Excel.
 2. Lancez le recalibrage. Le pic de force initial correspond au passage de l'olive de recalibrage ou à l'effort maximal sur le laiton, suivi d'une chute de tension. Un profil plat ou anormal indique un étui hors cotes.
 
-Le script Arduino principal est disponible ici : `src/loadcell_reloading_press.ino`
+Le script Arduino principal est disponible ici : [src/loadcell_reloading_press.ino](src/loadcell_reloading_press.ino)
 
 ## 🎥 Démonstration Vidéo
 Découvrez l'installation du capteur au centre des mâchoires de la presse et l'analyse comparative en direct des courbes de recalibrage de deux étuis de laiton sur notre chaîne YouTube :
